@@ -1,9 +1,23 @@
 body {
     background: url("../img/header-background.jpg");
+    background-position: center;
     margin: 0;
     font-family: sans-serif;
+    overflow-y:scroll;
 }
 
+.button {
+    display: inline-block;
+    line-height: 60px;
+    padding: 0 70px;
+    font-size: 30px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+    margin: 0px 300px;
+    background-color: blue;
+    border-radius: 60px;
+}
 .clearfix {
     overflow: auto;
 }
@@ -11,11 +25,30 @@ body {
 .container {
     display: block;
     width: 1024px;
+    height: 1013px;
     margin: 0 auto;
 }
 
+.content {
+    margin-left: auto;
+    margin-right: auto;
+    color: #8f969d;
+    font-size: 28px;
+    line-height: 40px;
+    max-width: 780px;
+    text-align: center;
+}
+
+.divbut {
+    text-align: center;
+    margin: 50px 310px;
+    background-color: blue;
+    line-height: 60px;
+    border-radius: 60px;
+}
+
 .divmar {
-    margin-top: 25px;
+    margin-top: 20px;
     margin-bottom: 180px;
 }
 .header {
@@ -49,11 +82,26 @@ ul.header-nav > li > a {
 }
 
 ul.header-nav > li > a:hover {
-    background-color: lightcyan;
+    //background-color: blue;
+    color: blue;
 }
 
 .title {
-    font-size: 76px;
+    margin-bottom: 30px;
+    font-size: 80px;
     text-align: center;
     color: #374048;
+}
+
+.topButton {
+    background-color: #ff6622;
+    border-radius: 30px;
+}
+
+.app_watch {
+    margin: 120px auto 30px auto;
+    text-align: center;
+}
+.watch {
+
 }
