@@ -1,6 +1,4 @@
 body {
-    background: url("../img/header-background.jpg");
-    background-position: center;
     margin: 0;
     font-family: sans-serif;
     overflow-y:scroll;
@@ -14,7 +12,7 @@ body {
     text-transform: uppercase;
     text-decoration: none;
     color: white;
-    margin: 0px 300px;
+    margin: 0 465px;
     background-color: blue;
     border-radius: 60px;
 }
@@ -24,8 +22,8 @@ body {
 
 .container {
     display: block;
-    width: 1024px;
-    height: 1013px;
+    //width: 1024px;
+    //height: 1013px;
     margin: 0 auto;
 }
 
@@ -52,19 +50,21 @@ body {
     margin-bottom: 180px;
 }
 .header {
-
+    background: url("../img/header-background.jpg");
+    background-position: center;
     //height: 60px;
 }
 
 .header-logo {
+    margin-left: 160px;
     display: block;
     float: left;
 }
 
 ul.header-nav {
+    margin: auto;
     float: right;
     padding: 0;
-    margin: 0;
     list-style-type: none;
 }
 
