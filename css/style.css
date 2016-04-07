@@ -124,8 +124,137 @@ ul.header-nav > li > a:hover {
 
 
 .product-1 {
-    position:           relative;
     padding-top:        60px;
     height:             1000px;
     text-align:         center;
+}
+
+    .product-title-1 {
+        color:              #374048;
+        font-size:          48px;
+        padding-top:        20px;
+
+}
+
+    .product-description-1 {
+        color:              #8a9095;
+        font-size:          20px;
+        padding:            0 130px;
+        line-height:        32px;
+}
+
+    .product-image-1 {
+        position:           relative;
+        background: url("../img/apple-watch-2.png") center no-repeat;
+        width:              347px;
+        height:             499px;
+        top:                80px;
+        left:               33%;
+}
+
+.plus-icon {
+    background-color:   #13C7FF;
+    color:              #fff;
+    position:           absolute;
+    height:             31px;
+    width:              31px;
+    padding:            8px;
+    border-radius:      100%;
+    cursor:             pointer;
+    line-height:        13px;
+}
+
+.top-left {
+    top:                154px;
+    left:               -5px;
+}
+
+.top-right {
+    top:                54px;
+    left:               299px;
+}
+
+.bottom-right {
+    bottom:             195px;
+    right:              99px;
+}
+
+.bottom-left {
+    bottom:             99px;
+    left:               4px;
+}
+
+span.plus {
+    font-size:          14px;
+
+}
+
+.container-1 {
+    display:            block;
+    width:              1280px;
+    margin:             0 auto;
+}
+
+.product-block {
+    position:           relative;
+    padding:            80px;
+}
+
+.product-item {
+    float:              left;
+    width:              33.333%;
+}
+
+.product-title-2 {
+    color:              #374048;
+    font-size:          26px;
+}
+
+.product-description-2 {
+    -webkit-margin-before: 0;
+    -webkit-margin-after:  0;
+    margin: 0;
+    color:              #8a9095;
+    font-size:          16px;
+    font-weight:        300;
+    line-height:        28px;
+    max-width:          350px;
+}
+
+.configure {
+    padding: 9px;
+}
+
+.configure-d {
+    margin: -10px 0;
+}
+
+.yay {
+    padding: 2px;
+}
+
+.yay-d {
+    margin: -4px 0;
+}
+
+.arrow-right {
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    top: 114px;
+    left: 430px;
+    border-top: 2px solid #8a9095;
+    border-right: 2px solid #8a9095;
+    transform: rotate(45deg);
+}
+
+.arrow-right-1 {
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    top: 114px;
+    right: 456px;
+    border-top: 2px solid #8a9095;
+    border-right: 2px solid #8a9095;
+    transform: rotate(45deg);
 }
