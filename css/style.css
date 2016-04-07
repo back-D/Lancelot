@@ -53,7 +53,14 @@ ul.header-nav > li.header-nav-cta > a {
     padding: 11px 30px;
     border-radius: 20px;
     color: #fff;
+
 }
+
+ul.header-nav > li.header-nav-cta > a:hover {
+    background-color: #374048;
+}
+
+
 ul.header-nav > li > a {
     display: inline-block;
     padding: 19px 10px;
