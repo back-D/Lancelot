@@ -13,7 +13,7 @@ body {
 
 .container {
     display:            block;
-    width:              1024px;
+    width:              1280px;
     margin:             0 auto;
 }
 
@@ -187,12 +187,6 @@ ul.header-nav > li > a:hover {
 span.plus {
     font-size:          14px;
 
-}
-
-.container-1 {
-    display:            block;
-    width:              1280px;
-    margin:             0 auto;
 }
 
 .product-block {
