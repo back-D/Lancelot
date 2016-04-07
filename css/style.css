@@ -1,120 +1,123 @@
 * {
-    box-sizing: border-box;
+    box-sizing:         border-box;
 }
 
 body {
-    margin: 0;
-    font-family: sans-serif;
+    margin:             0;
+    font-family:        sans-serif;
 }
 
 .clearfix {
-    overflow: auto;
+    overflow:           auto;
 }
 
 .container {
-    display: block;
-    width: 1024px;
-    margin: 0 auto;
+    display:            block;
+    width:              1024px;
+    margin:             0 auto;
 }
 
 .header-wrapper {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    background-color: #fff;
-    z-index: 1;
+    position:           fixed;
+    top:                0;
+    left:               0;
+    width:              100%;
+    background-color:   #fff;
+    z-index:            1;
 }
 .header {
-    height: 60px;
-    overflow: hidden;
+    height:             60px;
+    overflow:           hidden;
 
 }
 
 .header-logo {
-    display: block;
-    float: left;
-    padding: 2px 0;
+    display:            block;
+    float:              left;
+    padding:            2px 0;
 
 }
 
 ul.header-nav {
-    float: right;
-    margin: 0;
-    list-style-type: none;
+    float:              right;
+    margin:             0;
+    list-style-type:    none;
 }
 
 ul.header-nav >li {
-    display: inline-block;
+    display:            inline-block;
 }
 
 ul.header-nav > li.header-nav-cta > a {
-    background-color: #2fca2d;
-    padding: 11px 30px;
-    border-radius: 20px;
-    color: #fff;
+    background-color:   #2fca2d;
+    padding:            11px 30px;
+    border-radius:      20px;
+    color:              #fff;
 
 }
 
 ul.header-nav > li.header-nav-cta > a:hover {
-    background-color: #374048;
+    background-color:   #374048;
 }
 
 
 ul.header-nav > li > a {
-    display: inline-block;
-    padding: 19px 10px;
-    color: #8f969d;
-    text-decoration: none;
-    font-size: 18px;
-    text-transform: uppercase;
+    display:            inline-block;
+    padding:            19px 10px;
+    color:              #8f969d;
+    text-decoration:    none;
+    font-size:          18px;
+    text-transform:     uppercase;
 }
 
 ul.header-nav > li > a:hover {
-    color: #5c6167;
+    color:              #5c6167;
 }
 
 .product {
-    position: relative;
-    padding-top: 60px;
-    background: url("../img/header-background.jpg") center no-repeat;
-    height: 1000px;
-    text-align: center;
-}
-.product-title {
-    color: #374048;
-    font-size: 79px;
-    padding-top: 20px;
-
-}
-.product-description {
-    color: #8a9095;
-    font-size: 27px;
-    padding: 0 130px;
-    line-height: 44px;
-}
-.product-cta {
-    display: inline-block;
-    background-color: #2fca2d;
-    color: #fff;
-    text-decoration: none;
-    text-transform: uppercase;
-    font-size: 27px;
-    padding: 20px 40px;
-    border-radius: 30px;
-    margin-top: 40px;
+    position:           relative;
+    padding-top:        60px;
+    background:         url("../img/header-background.jpg") center no-repeat;
+    height:             1000px;
+    text-align:         center;
 }
 
-.product-cta:hover {
-    background-color: #374048;
-}
+    .product-title {
+        color:              #374048;
+        font-size:          79px;
+        padding-top:        20px;
+
+    }
+
+    .product-description {
+        color:              #8a9095;
+        font-size:          27px;
+        padding:            0 130px;
+        line-height:        44px;
+    }
+
+    .product-cta {
+        display:            inline-block;
+        background-color:   #2fca2d;
+        color:              #fff;
+        text-decoration:    none;
+        text-transform:     uppercase;
+        font-size:          27px;
+        padding:            20px 40px;
+        border-radius:      30px;
+        margin-top:         40px;
+    }
+
+    .product-cta:hover {
+        background-color:   #374048;
+    }
 
 
-.product-image {
-    width: 290px;
-    height: 320px;
-    position: absolute;
-    bottom: 40px;
-    left: 50%;
-    margin-left: calc(-290px / 2);
-}
+    .product-image {
+        width:              290px;
+        height:             320px;
+        position:           absolute;
+        bottom:             40px;
+        left:               50%;
+        margin-left:        calc(-290px / 2);
+    }
