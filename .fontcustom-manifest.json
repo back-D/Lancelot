@@ -1,0 +1,240 @@
+{
+  "checksum": {
+    "previous": "ead6e8f34ccb0fefedd69f36766d4e20a70a6444a14c42f4bd5f9294535922a2",
+    "current": "ead6e8f34ccb0fefedd69f36766d4e20a70a6444a14c42f4bd5f9294535922a2"
+  },
+  "fonts": [
+    "/css/flaticon/Flaticon.ttf",
+    "/css/flaticon/Flaticon.svg",
+    "/css/flaticon/Flaticon.woff",
+    "/css/flaticon/Flaticon.eot"
+  ],
+  "glyphs": {
+    "banknote": {
+      "codepoint": 61696,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/banknote.svg"
+    },
+    "big-megaphone": {
+      "codepoint": 61697,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/big-megaphone.svg"
+    },
+    "big-star": {
+      "codepoint": 61698,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/big-star.svg"
+    },
+    "camera-video": {
+      "codepoint": 61699,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/camera-video.svg"
+    },
+    "chemistry": {
+      "codepoint": 61700,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/chemistry.svg"
+    },
+    "coffee": {
+      "codepoint": 61701,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/coffee.svg"
+    },
+    "daily-newspaper": {
+      "codepoint": 61702,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/daily-newspaper.svg"
+    },
+    "database": {
+      "codepoint": 61703,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/database.svg"
+    },
+    "diamond": {
+      "codepoint": 61704,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/diamond.svg"
+    },
+    "digital-photo": {
+      "codepoint": 61705,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/digital-photo.svg"
+    },
+    "dustbin": {
+      "codepoint": 61706,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/dustbin.svg"
+    },
+    "envelope": {
+      "codepoint": 61707,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/envelope.svg"
+    },
+    "eye": {
+      "codepoint": 61708,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/eye.svg"
+    },
+    "flame": {
+      "codepoint": 61709,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/flame.svg"
+    },
+    "graduation-cap": {
+      "codepoint": 61710,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/graduation-cap.svg"
+    },
+    "groceries-store": {
+      "codepoint": 61711,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/groceries-store.svg"
+    },
+    "heart-shape": {
+      "codepoint": 61712,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/heart-shape.svg"
+    },
+    "inbox": {
+      "codepoint": 61713,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/inbox.svg"
+    },
+    "like": {
+      "codepoint": 61714,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/like.svg"
+    },
+    "location-gps": {
+      "codepoint": 61715,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/location-gps.svg"
+    },
+    "locked-padlock": {
+      "codepoint": 61716,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/locked-padlock.svg"
+    },
+    "newspaper": {
+      "codepoint": 61717,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/newspaper.svg"
+    },
+    "noodle-bowl": {
+      "codepoint": 61718,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/noodle-bowl.svg"
+    },
+    "paper-plane": {
+      "codepoint": 61719,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/paper-plane.svg"
+    },
+    "paperclip-archive": {
+      "codepoint": 61720,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/paperclip-archive.svg"
+    },
+    "parameters": {
+      "codepoint": 61721,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/parameters.svg"
+    },
+    "pencil-with-rubber": {
+      "codepoint": 61722,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/pencil-with-rubber.svg"
+    },
+    "quaver": {
+      "codepoint": 61723,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/quaver.svg"
+    },
+    "reflex-camera": {
+      "codepoint": 61724,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/reflex-camera.svg"
+    },
+    "screen-outline": {
+      "codepoint": 61725,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/screen-outline.svg"
+    },
+    "setting-tool": {
+      "codepoint": 61726,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/setting-tool.svg"
+    },
+    "small-calendar": {
+      "codepoint": 61727,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/small-calendar.svg"
+    },
+    "small-cloud": {
+      "codepoint": 61728,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/small-cloud.svg"
+    },
+    "small-key": {
+      "codepoint": 61729,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/small-key.svg"
+    },
+    "small-light-bulb": {
+      "codepoint": 61730,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/small-light-bulb.svg"
+    },
+    "small-truck": {
+      "codepoint": 61731,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/small-truck.svg"
+    },
+    "smartphone-outline": {
+      "codepoint": 61732,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/smartphone-outline.svg"
+    },
+    "sound-on": {
+      "codepoint": 61733,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/sound-on.svg"
+    },
+    "speech-bubble": {
+      "codepoint": 61734,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/speech-bubble.svg"
+    },
+    "tag": {
+      "codepoint": 61735,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/tag.svg"
+    },
+    "television-outline": {
+      "codepoint": 61736,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/television-outline.svg"
+    },
+    "the-world": {
+      "codepoint": 61737,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/the-world.svg"
+    },
+    "user-avatar": {
+      "codepoint": 61738,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/user-avatar.svg"
+    },
+    "vynil": {
+      "codepoint": 61739,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/vynil.svg"
+    },
+    "wallet-with-zipper": {
+      "codepoint": 61740,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/wallet-with-zipper.svg"
+    },
+    "white-t-shirt": {
+      "codepoint": 61741,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/white-t-shirt.svg"
+    },
+    "wristwatch": {
+      "codepoint": 61742,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/wristwatch.svg"
+    },
+    "zoom-tool": {
+      "codepoint": 61743,
+      "source": "/var/www/static/flaticon/zip_packs/110798-linecons/svg/zoom-tool.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".flaticon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "Flaticon",
+    "force": true,
+    "input": {
+      "templates": "/var/www/static/flaticon/zip_packs/110798-linecons/svg",
+      "vectors": "/var/www/static/flaticon/zip_packs/110798-linecons/svg"
+    },
+    "no_hash": true,
+    "output": {
+      "css": "/var/www/static/flaticon/zip_packs/110798-linecons/font",
+      "fonts": "/var/www/static/flaticon/zip_packs/110798-linecons/font",
+      "preview": "/var/www/static/flaticon/zip_packs/110798-linecons/font"
+    },
+    "preprocessor_path": null,
+    "quiet": true,
+    "templates": [
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.html",
+      "../../../../../sites/flaticon/libraries/webfont/templates/_flaticon.scss",
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.css"
+    ]
+  },
+  "templates": [
+    "/var/www/static/flaticon/zip_packs/110798-linecons/font/flaticon.html",
+    "/var/www/static/flaticon/zip_packs/110798-linecons/font/_flaticon.scss",
+    "/var/www/static/flaticon/zip_packs/110798-linecons/font/flaticon.css"
+  ]
+}
