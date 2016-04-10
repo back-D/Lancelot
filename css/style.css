@@ -254,6 +254,37 @@ span.plus {
 
 }
 
+ul.product-item {
+    position:           relative;
+    float:              left;
+    width:              calc((100% - 283px) / 2);
+    margin-left: 0;
+}
+
+.product-items {
+    position:           relative;
+    float:              left;
+    padding-left:       20px;
+    padding-right:      20px;
+    padding-bottom:     30px;
+}
+
+
+ul.product-block > li.product-items {
+
+    padding-left: 50px;
+}
+
+ul.product-block > li.product-items > h3.product-title-2 {
+    font-size: 20px;
+    line-height: 1px;
+}
+
+ul.product-block > li.product-items > p.product-description-2 {
+    font-size: 14px;
+    line-height: 22px;
+}
+
 .product-item > .hiw-image {
     display: block;
     width: 100px;
@@ -290,6 +321,66 @@ span.plus {
 .icon-style:before {
     position: absolute;
     color: #13C7FF;
-    left: -23px;
+    left: -18px;
     top: 10px;
+}
+
+.apl-img-3 {
+    float: left;
+    position: relative;
+    width: 283px;
+    height: 510px;
+}
+
+.collection {
+    position:           relative;
+    float:              left;
+    width:              25%;
+    padding-left:       20px;
+    padding-right:      20px;
+    text-align:         center;
+}
+
+.img-collection {
+    position: relative;
+    width: 230px;
+    height: 230px;
+}
+
+.collection-title {
+    color: #13C7FF;
+    font-size: 16px;
+    line-height: 1px;
+}
+
+.collection-description {
+    color: #b4bcc3;
+    font-size: 13px;
+    line-height: 1px;
+}
+
+.price {
+    color: #FF1900;
+    font-size: 19px;
+    line-height: 1px;
+    padding-top: 6px;
+}
+
+.collection-button {
+    display:            inline-block;
+    color:              #b4bcc3;
+    border-color:       #e1e4e7;
+    border:             1px solid;
+    text-decoration:    none;
+    text-transform:     uppercase;
+    font-size:          12px;
+    line-height:        26px;
+    padding:            2px 33px;
+    border-radius:      30px;
+}
+
+.collection-button:hover {
+    background-color: #374048;
+    border-color: #374048;
+    color: #fff;
 }
