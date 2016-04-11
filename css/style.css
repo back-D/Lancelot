@@ -1,10 +1,130 @@
+@font-face {
+    font-family: 'OpenSans';
+    src: url('../fonts/open_sans/300/open-sans-300.eot');
+    src: url('../fonts/open_sans/300/open-sans-300.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/open_sans/300/open-sans-300.woff2') format('woff2'),
+    url('../fonts/open_sans/300/open-sans-300.woff') format('woff'),
+    url('../fonts/open_sans/300/open-sans-300.ttf') format('truetype'),
+    url('../fonts/open_sans/300/open-sans-300.svg#OpenSans') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    src: url('../fonts/open_sans/300-italic/open-sans-300-italic.eot');
+    src: url('../fonts/open_sans/300-italic/open-sans-300-italic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/open_sans/300-italic/open-sans-300-italic.woff2') format('woff2'),
+    url('../fonts/open_sans/300-italic/open-sans-300-italic.woff') format('woff'),
+    url('../fonts/open_sans/300-italic/open-sans-300-italic.ttf') format('truetype'),
+    url('../fonts/open_sans/300-italic/open-sans-300-italic.svg#OpenSans') format('svg');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    src: url('../fonts/open_sans/400/open-sans-400.eot');
+    src: url('../fonts/open_sans/400/open-sans-400.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/open_sans/400/open-sans-400.woff2') format('woff2'),
+    url('../fonts/open_sans/400/open-sans-400.woff') format('woff'),
+    url('../fonts/open_sans/400/open-sans-400.ttf') format('truetype'),
+    url('../fonts/open_sans/400/open-sans-400.svg#OpenSans') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    src: url('../fonts/open_sans/400-italic/open-sans-400-italic.eot');
+    src: url('../fonts/open_sans/400-italic/open-sans-400-italic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/open_sans/400-italic/open-sans-400-italic.woff2') format('woff2'),
+    url('../fonts/open_sans/400-italic/open-sans-400-italic.woff') format('woff'),
+    url('../fonts/open_sans/400-italic/open-sans-400-italic.ttf') format('truetype'),
+    url('../fonts/open_sans/400-italic/open-sans-400-italic.svg#OpenSans') format('svg');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    src: url('../fonts/open_sans/600/open-sans-600.eot');
+    src: url('../fonts/open_sans/600/open-sans-600.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/open_sans/600/open-sans-600.woff2') format('woff2'),
+    url('../fonts/open_sans/600/open-sans-600.woff') format('woff'),
+    url('../fonts/open_sans/600/open-sans-600.ttf') format('truetype'),
+    url('../fonts/open_sans/600/open-sans-600.svg#OpenSans') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    src: url('../fonts/open_sans/600-italic/open-sans-600-italic.eot');
+    src: url('../fonts/open_sans/600-italic/open-sans-600-italic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/open_sans/600-italic/open-sans-600-italic.woff2') format('woff2'),
+    url('../fonts/open_sans/600-italic/open-sans-600-italic.woff') format('woff'),
+    url('../fonts/open_sans/600-italic/open-sans-600-italic.ttf') format('truetype'),
+    url('../fonts/open_sans/600-italic/open-sans-600-italic.svg#OpenSans') format('svg');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    src: url('../fonts/open_sans/700/open-sans-700.eot');
+    src: url('../fonts/open_sans/700/open-sans-700.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/open_sans/700/open-sans-700.woff2') format('woff2'),
+    url('../fonts/open_sans/700/open-sans-700.woff') format('woff'),
+    url('../fonts/open_sans/700/open-sans-700.ttf') format('truetype'),
+    url('../fonts/open_sans/700/open-sans-700.svg#OpenSans') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    src: url('../fonts/open_sans/700-italic/open-sans-700-italic.eot');
+    src: url('../fonts/open_sans/700-italic/open-sans-700-italic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/open_sans/700-italic/open-sans-700-italic.woff2') format('woff2'),
+    url('../fonts/open_sans/700-italic/open-sans-700-italic.woff') format('woff'),
+    url('../fonts/open_sans/700-italic/open-sans-700-italic.ttf') format('truetype'),
+    url('../fonts/open_sans/700-italic/open-sans-700-italic.svg#OpenSans') format('svg');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    src: url('../fonts/open_sans/800/open-sans-800.eot');
+    src: url('../fonts/open_sans/800/open-sans-800.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/open_sans/800/open-sans-800.woff2') format('woff2'),
+    url('../fonts/open_sans/800/open-sans-800.woff') format('woff'),
+    url('../fonts/open_sans/800/open-sans-800.ttf') format('truetype'),
+    url('../fonts/open_sans/800/open-sans-800.svg#OpenSans') format('svg');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    src: url('../fonts/open_sans/800-italic/open-sans-800-italic.eot');
+    src: url('../fonts/open_sans/800-italic/open-sans-800-italic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/open_sans/800-italic/open-sans-800-italic.woff2') format('woff2'),
+    url('../fonts/open_sans/800-italic/open-sans-800-italic.woff') format('woff'),
+    url('../fonts/open_sans/800-italic/open-sans-800-italic.ttf') format('truetype'),
+    url('../fonts/open_sans/800-italic/open-sans-800-italic.svg#OpenSans') format('svg');
+    font-weight: 800;
+    font-style: italic;
+}
+
 * {
     box-sizing:         border-box;
 }
 
 body {
     margin:             0;
-    font-family:        sans-serif;
+    font-family:        OpenSans, sans-serif;
 }
 
 .clearfix {
@@ -301,7 +421,7 @@ ul.product-block > li.product-items > p.product-description-2 {
     margin:             0;
     color:              #8a9095;
     font-size:          16px;
-    font-weight:        300;
+    font-weight:        400;
     line-height:        26px;
     max-width:          350px;
 }
@@ -330,6 +450,16 @@ ul.product-block > li.product-items > p.product-description-2 {
     position: relative;
     width: 283px;
     height: 510px;
+}
+
+.left-item {
+    padding-left: 0;
+    padding-right: 35px;
+}
+
+.right-item {
+    padding-left: 35px;
+    padding-right: 0;
 }
 
 .collection {
@@ -369,8 +499,7 @@ ul.product-block > li.product-items > p.product-description-2 {
 .collection-button {
     display:            inline-block;
     color:              #b4bcc3;
-    border-color:       #e1e4e7;
-    border:             1px solid;
+    border:             1px solid #e1e4e7;
     text-decoration:    none;
     text-transform:     uppercase;
     font-size:          12px;
