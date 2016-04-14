@@ -513,3 +513,74 @@ ul.product-block > li.product-items > p.product-description-2 {
     border-color: #374048;
     color: #fff;
 }
+
+.watch {
+    float: left;
+    position: relative;
+    margin: 0;
+    width: 50%;
+    text-align: left;
+}
+
+.watch-title {
+    color:              #374048;
+    text-transform:     uppercase;
+    font-size:          48px;
+    padding-top:        20px;
+    text-align: left;
+}
+
+.watch-description {
+    position: relative;
+    color:              #8a9095;
+    font-size:          20px;
+    line-height:        32px;
+    text-align: left;
+    margin-bottom: 44px;
+}
+
+.watch-description::after {
+    content:            "";
+    width:              80px;
+    height:             4px;
+    position:           absolute;
+    top:                113px;
+    left:               0;
+    background-color:   #eee;
+}
+
+.watch-block {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.thewatch {
+    background: url("../img/check.png") no-repeat left top;
+    color: #696f74;
+    font-size: 20px;
+    line-height: 32px;
+    padding-left: 46px;
+    margin-top: 20px;
+}
+
+.apl-the-watch {
+    float: right;
+    position: relative;
+    width: 316px;
+    height: 568px;
+}
+
+.split {
+    display: block;
+    float: left;
+    margin: 0;
+    width: 50%;
+    text-align: left;
+    min-height: 294px;
+}
+
+.split-img {
+    width: 100%;
+
+}
