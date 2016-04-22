@@ -1035,12 +1035,13 @@ ul.product-block > li.product-items > p.product-description-2 {
 
 .contacts {
     position: absolute;
-    top: 50%;
+    top: 75%;
     left: 50%;
     padding: 30px;
     background: #fff;
     margin: 0;
     text-align: left;
+    transform: translate(-50%,-50%);
 }
 
 .contacts ul li i {
@@ -1070,4 +1071,111 @@ ul.product-block > li.product-items > p.product-description-2 {
     display: block;
     position: relative;
 }
-.contacts > .contacts-button {}
+.contacts > .contacts-button {
+    background: #0084ff;
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 63px;
+    text-transform: uppercase;
+    border: none;
+    color: #fff;
+    padding: 2px 130px 0;
+}
+
+.contacts > .contacts-button:hover {
+    background: #374048;
+    border-color: #374048;
+    color: #fff;
+}
+
+.overlay {
+    background: transparent;
+    position: relative;
+    width: 100%;
+    height: 560px;
+    top: 560px;
+    margin-top:-560px;
+}
+
+.social {
+    text-align: center;
+    padding: 43px 0 36px;
+    margin: 0;
+    border-bottom: 1px solid #e9eef2;
+}
+
+.social > .social-list {
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    display: table;
+}
+
+.social > .social-list li {
+    float: left;
+    position: relative;
+    padding: 0 6px;
+}
+
+.social > .social-list li a {
+    background: #99ceff;
+    color: #fff;
+    display: block;
+    width: 48px;
+    height: 48px;
+    font-size: 22px;
+    line-height: 52px;
+    border-radius: 100%;
+    padding: 0;
+}
+
+.social > .social-list li a:hover {
+    background: #374048;
+}
+
+.menu-rights {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.menu-rights > .footer-menu {
+    list-style: none;
+    display: table;
+    margin: 0 auto;
+    padding: 15px 0;
+}
+
+.menu-rights > .footer-menu li {
+    float: left;
+    position: relative;
+}
+
+.menu-rights > .footer-menu li+li::before {
+    content: '\2022';
+    float: left;
+    padding: 0 10px;
+    display: block;
+    color: #99ceff;
+}
+.menu-rights > .footer-menu li a {
+    display: inline-block;
+    text-decoration: none;
+    color: #99ceff;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 1;
+}
+
+.menu-rights > .footer-menu li a:hover {
+    color: #374048;
+}
+
+.footer-description {
+    margin: 0;
+    padding: 0;
+    color: #c3cbd1;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 1;
+}
