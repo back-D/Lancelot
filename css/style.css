@@ -1032,3 +1032,42 @@ ul.product-block > li.product-items > p.product-description-2 {
 .map {
     position: relative;
 }
+
+.contacts {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    padding: 30px;
+    background: #fff;
+    margin: 0;
+    text-align: left;
+}
+
+.contacts ul li i {
+    width: 25px;
+    margin-left: -30px;
+    line-height: 32px;
+}
+.contacts > .contacts-title {
+    color: #374048;
+    font-weight: 600;
+    font-size: 27px;
+    line-height: 1;
+    text-transform: uppercase;
+}
+
+.contacts > .contacts-list {
+    list-style-type: none;
+    padding: 0;
+
+}
+.contacts > .contacts-list li {
+    color: #a5aeb3;
+    padding-left: 30px;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 2;
+    display: block;
+    position: relative;
+}
+.contacts > .contacts-button {}
